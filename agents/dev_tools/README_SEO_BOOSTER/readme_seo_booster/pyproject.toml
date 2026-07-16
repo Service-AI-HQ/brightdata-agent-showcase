@@ -7,7 +7,7 @@ requires-python = ">=3.10,<3.13"
 dependencies = [
     "crewai-tools[mcp]>=0.44.0",
     "crewai[tools]>=0.119.0,<1.0.0",
-    "mcp>=1.8.1",
+    "mcp>=1.28.1",
 ]
 
 [project.scripts]
